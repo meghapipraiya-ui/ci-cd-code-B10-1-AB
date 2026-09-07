@@ -48,3 +48,6 @@ print('\nIndividual Elements:')
 print(f'True Positives (Class 0): {cm[0,0]}')
 print(f'True Positives (Class 1): {cm[1,1]}')
 print(f'True Positives (Class 2): {cm[2,2]}')
+
+# print statement for print branch
+print ('This is the print branch')
